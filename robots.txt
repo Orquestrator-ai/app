@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://orquestrator.app
+Sitemap: https://orquestrator.app/sitemap.xml
